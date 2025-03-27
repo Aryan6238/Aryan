@@ -1,0 +1,6 @@
+studentid,parent_email,student_name
+101,alice_parent@example.com,Alice Johnson
+102,bob_parent@example.com,Bob Smith
+103,invalid_email.com,Charlie Brown
+104,invalid_email.com,David Lee
+105,eva_white@example.com,Eva White
